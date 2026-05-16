@@ -1,3 +1,7 @@
 @@||www.nederlandseloterij.nl^$important
 # Strato sitebuilder:
 @@||cdn-eu.c4t.cc^$important
+# Skiline:
+@@||app.skiline.cc^$important
+@@||keycloak.production.aws.skiline.cc^$important
+@@||api.skiline.cc^$important
