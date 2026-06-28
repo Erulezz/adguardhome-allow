@@ -5,3 +5,6 @@
 @@||app.skiline.cc^$important
 @@||keycloak.production.aws.skiline.cc^$important
 @@||api.skiline.cc^$important
+# TransIP team blue
+@@||team.blue^$important
+@@||nlcareers.team.blue^$important
